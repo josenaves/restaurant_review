@@ -45,6 +45,7 @@ export default function Home() {
                     title={title}
                     description={description}
                     rating={rating}
+                    location={location}
                     setTitle={setTitle}
                     setDescription={setDescription}
                     setRating={setRating}
