@@ -41,7 +41,7 @@ export class Review {
         }
 
         try {
-            const { title, rating, description } =
+            const { title, rating, description, location } =
                 this.borshAccountSchema.decode(buffer);
             return new Review(title, rating, description, location);
         } catch (e) {
