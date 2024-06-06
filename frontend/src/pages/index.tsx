@@ -8,7 +8,7 @@ import { useWallet } from "@solana/wallet-adapter-react";
 import ReviewForm from "@/components/Form";
 
 //Replace with your own Program_id
-const REVIEW_PROGRAM_ID = "FL43zNFc9EQWjFfb1WKFVHcx4hdy9v7vhxk1YYDSTJyf";
+const REVIEW_PROGRAM_ID = "AEpeopBv1xcd1AUghJMSDNJnrDwot3xChe8fAtZ2c4Cp";
 
 export default function Home() {
     const [txid, setTxid] = useState("");
