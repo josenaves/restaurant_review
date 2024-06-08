@@ -6,12 +6,15 @@ The Solana Program is deployed at in the devnet.
 
 The program source code is [here at Solana Playground](https://beta.solpg.io/6662c261cffcf4b13384d14f)
 
-Program ID is: CGxhsT4pBg5hw85ynkm43vNahiZPeskTHn6pRvLHPAhC
+Program ID is: ECSjvPaef1VHcsVM59UaSCH5wKCdTLvzrRY7XE6Yazvz
 
-To run the web app:
+The frontend is deployed [HERE](https://restaurant-review-sooty.vercel.app/).
+
+To run the web app locally: 
 
 ```
 cd frontend
 npm install
 npm run dev
 ```
+
