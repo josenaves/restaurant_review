@@ -8,7 +8,7 @@ import { useWallet } from "@solana/wallet-adapter-react";
 import ReviewForm from "@/components/Form";
 
 //Replace with your own Program_id
-const REVIEW_PROGRAM_ID = "CGxhsT4pBg5hw85ynkm43vNahiZPeskTHn6pRvLHPAhC";
+const REVIEW_PROGRAM_ID = "ECSjvPaef1VHcsVM59UaSCH5wKCdTLvzrRY7XE6Yazvz";
 
 export default function Home() {
     const connection = new web3.Connection(web3.clusterApiUrl("devnet"));
